@@ -3,11 +3,11 @@
 ---
 
 <picture>
-  <img src="https://github.com/Karpukhin-D/Task-11/tree/main/screens">
+  <img src="https://github.com/Karpukhin-D/Task-11/blob/main/screens/1.png">
 </picture>
 
 <picture>
-  <img src="https://github.com/Karpukhin-D/Task-11/tree/main/screens">
+  <img src="https://github.com/Karpukhin-D/Task-11/blob/main/screens/2.png">
 </picture>
 
 ```csharp
