@@ -2,6 +2,14 @@
 ## Выполнил студент группы П25-2.1 Карпухин Дмитрий
 ---
 
+<picture>
+  <img src="https://github.com/Karpukhin-D/Task-11/tree/main/screens">
+</picture>
+
+<picture>
+  <img src="https://github.com/Karpukhin-D/Task-11/tree/main/screens">
+</picture>
+
 ```csharp
 
 using System;
